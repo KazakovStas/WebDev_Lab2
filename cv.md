@@ -18,19 +18,6 @@ I am a student at Brest State Technical University (BrSTU). I have a strong foun
 3. **Pascal ABC – Intermediate**
    Strong foundation in procedural programming and algorithm design.
    
-### Coding Example
-```csharp
-// Simple C# program that prints a greeting
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Hello! My name is Stanislav.");
-    }
-}
-
 ### Achievements
 1. **Project Success**
    Completed multiple programming projects during studies, demonstrating strong problem-solving skills.
@@ -56,3 +43,17 @@ class Program
 ### Languages
 - **Russian:** Native
 - **English:** Intermediate
+
+### Coding Example
+
+```csharp
+// Simple C# program that prints a greeting
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello! My name is Stanislav.");
+    }
+}
