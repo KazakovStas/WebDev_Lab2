@@ -17,3 +17,42 @@ I am a student at Brest State Technical University (BrSTU). I have a strong foun
    Knowledge of memory management, pointers, classes, and STL.
 3. **Pascal ABC – Intermediate**
    Strong foundation in procedural programming and algorithm design.
+   
+### Coding Example
+```csharp
+// Simple C# program that prints a greeting
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello! My name is Stanislav.");
+    }
+}
+
+### Achievements
+1. **Project Success**
+   Completed multiple programming projects during studies, demonstrating strong problem-solving skills.
+2. **Academic Activity**
+   Participated in academic and technical activities at Lyceum №3 and BrSTU.
+3. **Self-Development**
+   Developed personal coding projects, improving understanding of data structures and debugging.
+4. **Language Skills**
+   Improved English proficiency for reading technical documentation.
+
+### Education
+- **Brest State Technical University (BrSTU)**
+  Higher education with an emphasis on engineering and technology.
+- **Secondary Education: Lyceum №3**
+  Completed a full secondary education program with a focus on mathematics and computer science.
+
+### Courses
+- Introduction to Programming
+- C# Fundamentals
+- C++ Basics and Algorithms
+- Pascal ABC Programming Course
+
+### Languages
+- **Russian:** Native
+- **English:** Intermediate
