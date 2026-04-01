@@ -1,1 +1,1 @@
-# WebDev_Lab2
+https://KazakovStas.github.io/WebDev_Lab2/cv# 
